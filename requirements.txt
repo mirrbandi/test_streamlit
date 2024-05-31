@@ -3,6 +3,6 @@ streamlit
 xgboost
 pandas
 yfinance
-scikit-learn
+scikit-learn==1.5.0
 matplotlib
 numpy
